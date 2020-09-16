@@ -1,0 +1,8 @@
+postgres:
+  database: usercar_aiohttp
+  user: usercar_aiohttp_user
+  password: usercar_aiohttp_pass
+  host: localhost
+  port: 5432
+  minsize: 1
+  maxsize: 5
